@@ -1,7 +1,7 @@
 # grunt-azure-cdn-deploy
 
 A Grunt plugin for for uploading files to Azure Blob Storage.
-Wraps a vanilla node package [https://github.com/bestander/grunt-azure-cdn-deploy](https://github.com/bestander/grunt-azure-cdn-deploy).
+Wraps a vanilla node package [https://github.com/bestander/deploy-azure-cdn](https://github.com/bestander/deploy-azure-cdn).
 It is perfect for deploying compiled assets to Microsoft Azure CDN as a last step in a Continuous Integration setup.
 
 ## Features
